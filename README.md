@@ -1,5 +1,9 @@
-![demo](https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/ca/3e/a54T87SbbzDpeQOzIB.gif)
+<p align="center">
+  <img src="https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/ca/3e/a54T87SbbzDpeQOzIB.gif"/>
+</p>
+
 <h3 align="center">A passionate frontend developer from Russia</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
