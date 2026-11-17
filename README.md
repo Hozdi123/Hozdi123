@@ -1,8 +1,9 @@
 ![demo](https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/ca/3e/a54T87SbbzDpeQOzIB.gif)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/hozdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hozdi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
